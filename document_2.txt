@@ -1,1 +1,4 @@
-This is my second line
+This is my second line (updated)
+
+We add new line
+---------
